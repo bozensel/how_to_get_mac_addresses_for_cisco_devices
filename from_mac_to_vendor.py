@@ -36,7 +36,6 @@ def mac_address_parser(data_to_parse):
 parsed_mac_address_parser = mac_address_parser(data_to_parse)
 
 def find_macaddresses_vendor(mac): # REST API is used. 
-    MAC_ADDRESSES_OUI_RESULT = []
     #API base url,you can also use https if you need
     url = "API URL" # Needs to be edited depending on which API server used for querying MAC Vendor. 
     #Mac address to lookup vendor from
