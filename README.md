@@ -1,6 +1,10 @@
 # how_to_get_mac_addresses_for_cisco_devices
 How to get mac addresses of the "show mac address-table vlan &lt;vlan-id>" table with the vendor information.
 
+TTP is a Python module that allows relatively fast performance parsing of semi-structured text data using templates. TTP was developed to enable programmatic access to data produced by CLI of networking devices, but, it can be used to parse any semi-structured text that contains distinctive repetition patterns.
+
+A REST API (also known as RESTful API) is an application programming interface (API or web API) that conforms to the constraints of REST architectural style and allows for interaction with RESTful web services.
+
 See sample output which is going to be parsed. 
 
 The command: 
