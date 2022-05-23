@@ -1,4 +1,4 @@
-# how_to_get_mac_addresses_for_cisco_devices
+# REST_API_how_to_get_mac_addresses_for_cisco_devices
 How to get mac addresses of the "show mac address-table vlan &lt;vlan-id>" table with the vendor information.
 
 TTP is a Python module that allows relatively fast performance parsing of semi-structured text data using templates. TTP was developed to enable programmatic access to data produced by CLI of networking devices, but, it can be used to parse any semi-structured text that contains distinctive repetition patterns.
